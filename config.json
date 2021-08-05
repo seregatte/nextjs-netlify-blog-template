@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "base_url": "https://frosty-tesla-9b4faa.netlify.app/",
   "site_title": "Next.js Netlify Blog For tests",
-  "site_description": "Next.js blog template for Netlify",
+  "site_description": "Next.js blog template for Netlify test",
   "site_keywords": [
     {
       "keyword": "Next.js"
